@@ -1,3 +1,13 @@
+## Ames Housing Data 
+
+http://jse.amstat.org/v19n3/decock.pdf
+
+## Stack Overflow 2019 Survey (developer_survey_2019.zip 18M)
+
+https://insights.stackoverflow.com/survey/2019
+
+License: ODbL
+
 ## Automobile Fuel Economy 1984-2020 (vehicles.csv.zip)
 
 https://www.fueleconomy.gov/feg/download.shtml
