@@ -1,6 +1,11 @@
+
 ## Ames Housing Data 
 
 http://jse.amstat.org/v19n3/decock.pdf
+
+Data at ``./data/ames-housing-dataset.zip``
+
+Weather data for those years at ``../data/asos-ames-2007-2010.txt``
 
 ## Stack Overflow 2019 Survey (developer_survey_2019.zip 18M)
 
