@@ -80,3 +80,40 @@ https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USC00420072/deta
  * WT06_ATTRIBUTES
  * WT11 -  High or damaging winds
  * WT11_ATTRIBUTES
+
+## El Nino (tao-all2.dat.gz)
+
+https://archive.ics.uci.edu/ml/datasets/El+Nino
+
+ zonal winds (west<0, east>0), meridional winds (south<0, north>0),
+
+```
+# Data transformation from previous notebook
+# col names in tao-all2.col from website
+names = '''obs
+year
+month
+day
+date
+latitude
+longitude
+zon.winds
+mer.winds
+humidity
+air temp.
+s.s.temp.'''.split('\n')
+
+nino = pd.read_csv('data/tao-all2.dat.gz', sep=' ', names=names, na_values='.', 
+                   parse_dates=[[1,2,3]])
+
+def clean_cols(val):
+    return val.replace('.', '_').replace(' ', '_')
+
+nino = (nino
+  .rename(columns=clean_cols)
+  .assign(air_temp_F=lambda df_: df_.air_temp_ * 9/5 + 32,
+        zon_winds_mph=lambda df_: df_.zon_winds*2.237,
+        mer_winds_mph=lambda df_: df_.mer_winds*2.237)
+  .drop(columns='obs')
+)
+```
