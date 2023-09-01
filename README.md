@@ -33,6 +33,10 @@ https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USC00420072/deta
 
  Data at ``../data/snow-alta-1990-2017.csv``
 
+ ## Ecommerce Store Sample Transaction
+
+ ``../data/transaction_data.xlsx``
+
  Documentation - https://www1.ncdc.noaa.gov/pub/data/cdo/documentation/GHCND_documentation.pdf
 
 
