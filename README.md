@@ -1,3 +1,8 @@
+## Social Security Names
+
+from https://www.ssa.gov/oact/babynames/
+
+Data at `data/names-ss-1910-2022.csv.zip`
 
 ## Ames Housing Data 
 
