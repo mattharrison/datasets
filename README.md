@@ -134,3 +134,7 @@ athlete_events.csv.zip From Kaggle. Medal stats to 2016
 ## Nvidia Data
 
 nvda_spy.csv SPY and Nvidia data to 2024 from yfinance
+
+## Alone Data
+
+Gemini assisted generated data from Alone TV series
