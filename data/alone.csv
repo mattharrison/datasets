@@ -1,0 +1,110 @@
+season,location,contestant,age,sex,starting_weight_kg,profession,exp_years,hunt_skill,fish_skill,family_status,shelter_quality,food_events,injury_count,med_flags,tapout_reason,days_lasted,gill_net,hometown,precip_mm,daylight_hrs
+1,Vancouver Is,Alan Kay,40,M,95,Law Enforcement,20,4,5,Married,4,12,0,0,Winner,56,Y,Blairsville GA,280,11
+1,Vancouver Is,Sam Larson,22,M,105,Bushcraft,4,3,3,Married,3,4,0,0,Psychological,55,N,Lincoln NE,280,11
+1,Vancouver Is,Mitch Mitchell,43,M,88,Survivalist,15,4,4,Married,4,8,0,0,Family,43,Y,Bellingham MA,280,11
+1,Vancouver Is,Lucas Miller,39,M,82,Therapist,10,3,4,Single,4,10,0,0,Psychological,39,Y,Quasqueton IA,280,11
+1,Vancouver Is,Dustin Burgess,8,M,92,Carpenter,10,3,2,Married,2,1,0,0,Fear (Bears),8,N,Sandpoint ID,280,12
+1,Vancouver Is,Brant McGee,6,M,88,Military,12,3,2,Single,1,0,0,0,Water/Thirst,6,N,Albemarle NC,280,12
+1,Vancouver Is,Joe Robinet,4,M,85,YouTuber,8,2,3,Married,1,0,0,0,Lost Gear,4,N,Windsor ON,280,12
+1,Vancouver Is,Wayne Russell,4,M,95,Commercial Fisher,20,3,5,Married,1,2,0,0,Fear (Bears),4,N,Saint John NB,280,12
+1,Vancouver Is,Chris Weatherman,2,M,100,Writer,15,4,3,Married,1,0,0,0,Fear (Wolves),2,N,Fort White FL,280,12
+1,Vancouver Is,Josh Chavez,1,M,90,Police,5,2,2,Single,1,0,0,0,Fear (Bears),1,N,Jacksonville FL,280,12
+2,Vancouver Is,David McIntyre,49,M,88,Writer,25,3,5,Divorced,4,15,0,0,Winner,66,Y,Post Falls ID,280,10
+2,Vancouver Is,Larry Roberts,44,M,93,Electrician,20,3,4,Married,5,10,0,0,Psychological,64,Y,Harrisburg SD,280,10
+2,Vancouver Is,Nicole Apelian,45,F,72,Ethnobiologist,20,3,5,Divorced,4,18,0,0,Family,57,Y,Portland OR,280,10
+2,Vancouver Is,Justin Vititoe,35,M,85,Military,15,4,3,Single,4,6,0,0,Journey Done,35,N,Augusta GA,280,11
+2,Vancouver Is,Randy Champagne,28,M,82,Survival Instr,10,4,4,Single,3,5,0,0,Loneliness,21,N,Flagstaff AZ,280,11
+2,Vancouver Is,Mike Lowe,55,M,90,Survival Instr,30,4,4,Married,4,8,0,0,Family,21,N,Lewis CO,280,11
+2,Vancouver Is,Tracy Wilson,48,F,85,Military/Police,15,4,2,Single,2,1,0,0,Fear (Bears),8,N,Aiken SC,280,12
+2,Vancouver Is,Mary Kate Williams,35,F,75,Fitness Trainer,10,3,3,Single,2,2,1,0,Injury (Axe),7,N,Homer AK,280,12
+2,Vancouver Is,Desmond White,37,M,110,Military,10,3,2,Married,1,0,0,0,Fear (Bears),1,N,Coolidge AZ,280,12
+3,Patagonia,Zachary Fowler,36,M,102,Boat Builder,15,4,5,Married,5,25,0,0,Winner,87,Y,Appleton ME,120,9
+3,Patagonia,Carleigh Fairchild,28,F,70,Ethnobiologist,10,3,4,Single,5,11,0,1,Medical (BMI),86,N,Anacortes WA,120,9
+3,Patagonia,Megan Hanacek,35,F,72,Forester,15,3,4,Married,4,14,1,0,Injury (Tooth),78,Y,Port McNeill BC,120,9
+3,Patagonia,Dave Nessia,49,M,80,Survival Instr,20,3,4,Single,4,12,0,1,Medical (BMI),73,N,Salt Lake City UT,120,9
+3,Patagonia,Callie Guy,27,F,68,Herbalist,8,2,4,Single,4,10,1,0,Spider Bites,72,N,Mount Vernon WA,120,9
+3,Patagonia,Greg Ovens,52,M,85,Carpenter,30,4,3,Divorced,4,9,0,0,Hypothermia,51,N,Canal Flats BC,120,10
+3,Patagonia,Dan Wowak,34,M,92,Survival Instr,10,3,3,Married,2,1,0,0,Loneliness,10,N,Mahanoy City PA,120,10
+3,Patagonia,Britt Ahrens,40,M,85,Accountant,5,2,3,Married,2,1,0,0,Loneliness,7,N,Mantua OH,120,10
+3,Patagonia,Jim Shields,37,M,95,Teacher,10,3,3,Married,2,1,0,0,Loneliness,3,N,Langhorne PA,120,10
+3,Patagonia,Zachary Gault,22,M,82,Survivalist,5,3,3,Single,1,0,1,0,Injury (Axe),1,N,Ontario CAN,120,10
+4,Vancouver Is,Jim Baird,35,M,90,Adventurer,20,4,5,Married,4,15,0,0,Winner,75,Y,Toronto ON,280,11
+4,Vancouver Is,Ted Baird,32,M,88,Adventurer,18,4,5,Single,4,15,0,0,Winner,75,Y,Toronto ON,280,11
+4,Vancouver Is,Pete Brockdorff,61,M,85,Shipping,40,3,4,Married,5,10,0,1,Medical (Health),74,Y,Clinton_UT,280,11
+4,Vancouver Is,Theresa Brockdorff,59,F,72,Homemaker,35,3,4,Married,5,10,0,1,Medical (Health),74,Y,Clinton_UT,280,11
+4,Vancouver Is,Brooke Whipple,42,F,75,Outdoor Instr,15,3,4,Married,4,8,0,0,Psychological,49,Y,Reed City MI,280,11
+4,Vancouver Is,Dave Whipple,40,M,92,Builder,20,4,4,Married,4,8,0,0,Psychological,49,Y,Reed City MI,280,11
+4,Vancouver Is,Jesse Bosdell,31,M,88,Military,10,4,3,Single,3,5,1,0,Injury (Back),42,N,Skowhegan ME,280,11
+4,Vancouver Is,Shannon Bosdell,44,M,95,Fisherman,25,3,5,Married,3,5,1,0,Injury (Back),42,N,Wrangell AK,280,11
+4,Vancouver Is,Alex Ribar,48,M,100,Military,20,4,3,Married,2,2,0,0,Loneliness,36,N,Montville ME,280,11
+4,Vancouver Is,Logan Ribar,19,M,82,Student,2,2,3,Single,2,2,0,0,Loneliness,36,N,Montville ME,280,11
+4,Vancouver Is,Brad Richardson,23,M,85,Blacksmith,5,3,4,Single,2,1,0,0,Starvation,8,N,Fox Lake IL,280,12
+4,Vancouver Is,Josh Richardson,19,M,80,Student,3,2,3,Single,2,1,0,0,Starvation,8,N,Fox Lake IL,280,12
+4,Vancouver Is,Andrew Alexander,25,M,88,Engineer,4,3,2,Single,1,0,0,0,Psychological,5,N,Breckenridge CO,280,12
+4,Vancouver Is,Kevin Alexander,22,M,82,Student,2,2,2,Single,1,0,0,0,Psychological,5,N,Breckenridge CO,280,12
+5,Mongolia,Sam Larson,25,M,110,Author,7,3,4,Married,3,15,0,0,Winner,60,N,Lincoln NE,25,10
+5,Mongolia,Britt Ahrens,41,M,85,Accountant,6,2,3,Married,3,12,0,0,Psychological,56,N,Mantua OH,25,10
+5,Mongolia,Larry Roberts,46,M,93,Electrician,22,3,4,Married,4,14,0,0,Psychological,41,Y,Harrisburg SD,25,10
+5,Mongolia,Dave Nessia,51,M,80,Survival Instr,22,3,4,Single,4,10,0,0,Psychological,36,N,Salt Lake City UT,25,10
+5,Mongolia,Brooke Whipple,43,F,75,Survivalist,16,3,4,Married,3,6,0,0,Loneliness,28,N,Reed City MI,25,10
+5,Mongolia,Jesse Bosdell,32,M,88,Veteran,11,4,3,Single,3,4,0,0,Digestive,24,N,Skowhegan ME,25,11
+5,Mongolia,Nicole Apelian,47,F,72,Biologist,22,3,5,Divorced,3,3,0,1,Med (MS),9,Y,Portland OR,25,11
+5,Mongolia,Brad Richardson,24,M,85,Smith,6,3,4,Single,2,1,0,0,Psychological,7,N,Fox Lake IL,25,11
+5,Mongolia,Carleigh Fairchild,30,F,70,Ethnobiologist,12,3,4,Single,2,1,1,1,Fish Hook,5,N,Anacortes WA,25,11
+6,Great Slave L,Jordan Jonas,35,M,92,Farmer,20,5,5,Married,5,45,1,0,Winner,77,Y,Lynchburg VA,35,8
+6,Great Slave L,Woniya Thibeault,42,F,65,Skills Instr,20,4,4,Single,4,18,0,0,Starvation,73,Y,Grass Valley CA,35,8
+6,Great Slave L,Nathan Donnelly,39,M,88,Disaster Prep,15,3,4,Married,5,15,0,0,Shelter Fire,72,Y,Eshue WA,35,8
+6,Great Slave L,Barry Korthals,46,M,95,Self-Employed,20,4,4,Married,5,22,0,0,Starvation,69,Y,Backus MN,35,8
+6,Great Slave L,Nikki van Schyndel,44,F,68,Guide,15,3,3,Single,3,9,2,0,Starvation,52,N,Echo Bay BC,35,8
+6,Great Slave L,Michelle Wohlberg,31,F,75,Homesteader,10,4,4,Married,4,12,0,1,Medical (Constipation),48,N,Melfort SK,35,9
+6,Great Slave L,Ray Livingston,43,M,90,Sgt Major,20,4,3,Married,2,4,0,0,Psychological,19,N,Vancouver WA,35,9
+6,Great Slave L,Tim Backus,55,M,98,Guide,30,5,3,Married,2,2,1,0,Injury (Back),19,N,Lubbock TX,35,9
+6,Great Slave L,Brady Nicholls,36,M,85,SERE Instr,10,4,4,Married,2,3,0,0,Psychological,15,N,San Antonio TX,35,9
+6,Great Slave L,Donny Dust,38,M,82,Survivalist,15,4,3,Married,2,1,0,0,Digestive,8,N,Monument CO,35,9
+7,Great Slave L,Roland Welker,47,M,85,Guide,30,5,4,Single,5,55,0,0,Winner,100,N,Shiloh PA,35,7
+7,Great Slave L,Callie Russell,31,F,68,Scavenger,12,4,4,Single,4,15,1,1,Medical (Frost),89,N,Flathead MT,35,7
+7,Great Slave L,Kielyn Marrone,33,F,72,Operator,10,3,4,Married,4,14,0,0,Psychological,80,Y,Huntsville ON,35,7
+7,Great Slave L,Amós Rodriguez,40,M,84,Instr,15,4,4,Single,4,10,0,0,Starvation,58,N,Indianapolis IN,35,8
+7,Great Slave L,Joe Nicholas,31,M,90,Biologist,10,3,4,Single,3,8,0,0,Psychological,44,N,Redding CA,35,8
+7,Great Slave L,Joel Van Der Loon,34,M,88,Instr,12,4,4,Married,3,7,0,0,Psychological,40,N,Sisters OR,35,8
+7,Great Slave L,Mark D'Ambrosio,33,M,85,Marine,10,4,3,Single,2,3,0,0,Psychological,22,N,Vancouver WA,35,9
+7,Great Slave L,Correy Hawk,30,M,82,Bowyer,8,4,3,Single,2,2,1,0,Injury (Leg),12,N,Plattsmouth NE,35,9
+7,Great Slave L,Shawn Helton,47,M,95,Tool Maker,20,3,4,Married,2,4,0,0,Lost Gear,10,N,Henry TN,35,9
+8,Chilko Lake,Clay Hayes,40,M,86,Bowyer,25,5,4,Married,5,28,0,0,Winner,74,N,Kendrick ID,45,10
+8,Chilko Lake,Barent Trinkle,31,M,92,Biologist,10,3,5,Married,5,25,0,0,Starvation,73,N,Eureka MT,45,10
+8,Chilko Lake,Colter Barnes,36,M,88,Educator,15,4,4,Single,4,20,0,1,Medical (BMI),67,Y,Island Park ID,45,10
+8,Chilko Lake,Theresa Kamper,40,F,68,Prehistorian,15,3,4,Single,5,15,0,0,Starvation,69,N,Exeter UK,45,10
+8,Chilko Lake,Rose Anna Moore,43,F,75,Survivalist,15,3,3,Single,4,10,0,1,Medical (BMI),37,N,Wellsboro PA,45,11
+8,Chilko Lake,Nate Weber,47,M,95,Soldier,20,4,3,Married,2,5,0,0,Psychological,24,N,Ludlow VT,45,11
+8,Chilko Lake,Matt Corradino,42,M,90,Instr,20,3,4,Married,2,4,0,0,Psychological,22,N,St. Croix USVI,45,11
+8,Chilko Lake,Michelle Finn,46,F,70,Teacher,15,3,4,Married,2,3,0,0,Psychological,21,N,Andrew NC,45,11
+8,Chilko Lake,Jordon Bell,38,M,84,Teacher,10,4,3,Married,2,2,0,0,Psychological,10,N,Oak Creek CO,45,11
+8,Chilko Lake,Tim Madsen,48,M,100,Technician,20,4,3,Married,1,1,1,0,Medical (Chest),6,N,Laramie WY,45,11
+9,Labrador,Juan Pablo Quiñonez,30,M,84,Specialist,10,3,4,Single,4,12,0,0,Winner,78,N,Pinawa MB,90,9
+9,Labrador,Karie Lee Knoke,57,F,70,Wilderness Gide,25,3,4,Single,4,15,0,0,Psychological,75,N,Sandpoint ID,90,9
+9,Labrador,Teimojin Tan,31,M,85,Doctor,8,3,4,Single,4,10,0,0,Starvation,63,N,Montreal QC,90,9
+9,Labrador,Adam Riley,36,M,88,Carpenter,12,4,4,Married,3,8,0,0,Loneliness,52,N,Ian CA,90,9
+9,Labrador,Jessie Krebs,49,F,68,SERE Instr,20,4,3,Single,4,5,0,1,Med (Digestive),46,N,Pagosa Springs CO,90,10
+9,Labrador,Tom Garstang,35,M,92,Biologist,10,4,3,Married,3,4,0,0,Psychological,43,N,Earlysville VA,90,10
+9,Labrador,Terry Burns,42,M,95,Guide,20,4,4,Single,2,3,0,0,Starvation,22,N,Ocean View NJ,90,11
+9,Labrador,Benji Hill,46,M,100,Instr,25,4,4,Married,2,4,0,1,Med (Giardia),11,N,Bellevue ID,90,11
+10,Saskatchewan,Alan Tenta,52,M,98,Teacher,30,4,5,Married,4,32,0,0,Winner,66,Y,Columbia Valley BC,40,10
+10,Saskatchewan,Wyatt Black,50,M,95,Trapper,30,5,4,Married,5,28,1,0,Psychological,64,N,Barrie ON,40,10
+10,Saskatchewan,Mikey Helton,31,M,105,Carpenter,15,3,4,Married,4,20,0,0,Loneliness,54,N,Rome GA,40,10
+10,Saskatchewan,Melanie Sawyer,54,F,75,Historical,20,2,4,Married,4,15,0,0,Psychological,43,N,Moriah NY,40,10
+10,Saskatchewan,James "Wyatt" Wyatt,50,M,92,Guide,25,4,4,Married,3,10,0,0,Psychological,22,N,Ontario CAN,40,11
+11,Inuvik,William Larkham Jr,49,M,93,Fisherman,35,4,5,Married,5,38,0,0,Winner,84,Y,Happy Valley NL,25,6
+11,Inuvik,Timber Cleghorn,35,M,90,Humanitarian,15,5,4,Married,5,35,0,0,Psychological,83,N,Nixon TX,25,6
+11,Inuvik,Dub Paetz,44,M,88,Fisherman,20,4,5,Single,5,30,0,0,Psychological,80,Y,Frederic WI,25,6
+11,Inuvik,Sarah Mutch,48,F,72,Guide,20,3,4,Married,4,12,0,0,Starvation,44,N,Nanaimo BC,25,7
+11,Inuvik,Michela Carriere,34,F,68,Guide,12,3,4,Single,2,4,0,0,Loneliness,18,N,Cumberland SK,25,8
+11,Inuvik,Becca Skinner,33,F,65,Photographer,10,4,3,Single,2,3,0,0,Psychological,10,N,Bozeman MT,25,8
+12,Great Karoo,Nathan Olsen,34,M,82,Warden,12,5,4,Married,4,10,0,0,Winner,34,N,Salt Lake City UT,15,11
+12,Great Karoo,Kelsey Loper,33,F,64,Homesteader,8,3,3,Single,3,3,0,1,Starvation,33,N,Dodge City KS,15,11
+12,Great Karoo,Katie Rydge,38,F,70,Instr,15,3,4,Married,3,4,0,0,Psychological,28,N,Australia,15,11
+12,Great Karoo,Baha Mahmutov,45,M,88,Climber,20,3,3,Married,2,1,0,0,No Fire,19,N,Kazakhstan,15,11
+12,Great Karoo,Dug North,55,M,95,Primitive,30,3,2,Married,2,1,0,1,Med (Faint),14,N,Pownal ME,15,11
+12,Great Karoo,Douglas Meyer,44,M,90,Writer,15,3,3,Married,2,1,0,0,Psychological,14,N,Philadelphia PA,15,11
+12,Great Karoo,Will Lamb,36,M,85,Carpenter,10,4,3,Single,2,2,0,1,Med (Colitis),5,N,Red Deer AB,15,11
+12,Great Karoo,Pablo Arguelles,30,M,80,Analyst,5,2,3,Single,1,0,0,0,Dehydration,5,N,Mexico City,15,11
+12,Great Karoo,Jit Patel,42,M,95,Doctor,8,2,2,Married,1,0,0,1,Med (Vomit),4,N,England,15,11
