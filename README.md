@@ -138,3 +138,47 @@ nvda_spy.csv SPY and Nvidia data to 2024 from yfinance
 ## Alone Data
 
 Gemini assisted generated data from Alone TV series
+
+
+1. Demographic & Background Data
+
+* **`season`**: (Integer) The installment number of the show (1–12).
+* **`location`**: (String) The geographical region (e.g., "Vancouver Island," "Great Slave Lake"). This acts as a proxy for ecosystem type.
+* **`contestant`**: (String) The name of the participant.
+* **`age`**: (Integer) The age of the participant at the time of drop-off.
+* **`sex`**: (Categorical: M/F) Biological sex.
+* **`starting_weight_kg`**: (Continuous) The weight of the participant at the final medical check before drop-off.
+* **`profession`**: (String) The participant's primary career. Useful for "Professional Bias" analysis (e.g., comparing "Survival Instructor" vs. "Electrician").
+* **`hometown`**: (String) Origin city/state. Used to calculate "Home Field Advantage" if the climate matches the show location.
+* **`exp_years`**: (Integer) Self-reported years of experience in primitive or survival skills.
+
+2. Skill & Performance Metrics (1–5 Scale)
+
+* **`hunt_skill`**: (Ordinal) 1 = Basic/No experience; 5 = Professional guide/Elite bowyer. Measures the ability to track and kill game.
+* **`fish_skill`**: (Ordinal) 1 = Recreational; 5 = Commercial fisherman/Expert angler. Often the strongest predictor of longevity.
+* **`shelter_quality`**: (Ordinal) 1 = Minimalist tarp/bivouac; 3 = Insulated lean-to; 5 = Permanent log cabin with stone hearth/fireplace.
+
+3. Survival Events & Physiological Data
+
+* **`food_events`**: (Integer) The count of successful "significant" harvests (e.g., a large fish, a squirrel, or big game). Smaller foraged items like berries are usually excluded.
+* **`injury_count`**: (Integer) Total number of minor or major physical injuries recorded.
+* **`med_flags`**: (Integer) Number of official "Medical Warnings" issued by the production team during weekly checks.
+* **`gill_net`**: (Boolean: Y/N) Whether the participant successfully constructed and deployed a gill net.
+
+
+4. Environmental Stressors
+
+* **`precip_mm`**: (Continuous) Average monthly rainfall/snowfall for that location. High values correlate with "Psychological" tap-outs due to gear failure and wetness.
+* **`daylight_hrs`**: (Continuous) The average hours of sunlight during the final third of the stay.
+* **`temp_low_c`**: (Continuous) The average nightly low temperature during the participant's final week.
+
+5. Outcome Variables (Target Data)
+
+* **`tapout_reason`**: (Categorical) The primary reason for leaving. Common values:
+* *Winner*: Last person standing.
+* *Medical*: Forced removal for BMI, injury, or organ failure.
+* *Psychological*: Loneliness, "missing family," or "journey complete."
+* *Starvation*: Voluntary tap due to lack of calories.
+
+
+* **`days_lasted`**: (Integer) The total number of 24-hour periods spent in the wilderness. This is usually your **Dependent Variable** for regression analysis.
